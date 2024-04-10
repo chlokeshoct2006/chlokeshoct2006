@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Lokesh Chaudhary.
+- 👀 I’m interested in Cloud and DevOps.
+- 🌱 I’m currently learning Web Development, Python, Database, AWS, Linux and many more.
+- 💞️ I’m looking to collaborate on projects related to Cloud and DevOps.
+- 📫 How to reach me : Email me at chlokeshoct2006@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I attend GLA University in Mathura, Uttar Pradesh, India, where I am pursuing my BTech in Computer Science Engineering with specialization in Cloud Computing and Virtualization.
