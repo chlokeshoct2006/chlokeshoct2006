@@ -23,22 +23,24 @@
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="mailto:chlokesh7037@gmail.com">
+<a href="mailto:chlokesh7037@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/lokesh-chaudhary-/">
+<a href="https://www.linkedin.com/in/lokesh-chaudhary-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/chlokesh/">
+<a href="https://leetcode.com/u/chlokesh/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/chlokeshoct2006">
+<a href="https://github.com/chlokeshoct2006" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+---
 
 ---
